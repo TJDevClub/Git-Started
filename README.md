@@ -46,4 +46,3 @@
 - You can checkout this branch with
     + `git checkout Hello`
 - Then you can push to your repo.
-- 

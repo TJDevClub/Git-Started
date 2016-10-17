@@ -31,3 +31,19 @@
     + Help it's not working! Refer to this comic. Then Google it. Git provides fantastic documentation
     
     ![xkcd 1597](http://imgs.xkcd.com/comics/git.png)
+
+## Activity time!
+- Fork this repo on Github: `https://github.com/TJDevClub/Git-Started.git`
+- Clone **your** repo: `git clone https://github.com/TJDevClub/Git-Started.git`
+- Make a new file, call it 'hi.txt'
+- Write whatever you want inside.
+- Type `git status` to see the status of your files.
+- Type `git add hi.txt` to add the file to your staging area.
+- Commit this file, with the commit message "Say Hello"
+    + Note on commit messages: Short commit messages should be **concise**,**informative**, in the **imperative form**, and in **title case**
+- Make a new branch called "Hello" with
+    + `git branch Hello`
+- You can checkout this branch with
+    + `git checkout Hello`
+- Then you can push to your repo.
+- 

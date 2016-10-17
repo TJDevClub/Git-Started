@@ -46,3 +46,5 @@
 - You can checkout this branch with
     + `git checkout Hello`
 - Then you can push to your repo.
+- Do some more stuff; whatever you want.
+- Make a pull request to the official TJ Dev Club repository.

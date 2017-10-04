@@ -29,7 +29,7 @@
         * If you want to make sure your local repository is up to date with the remote repository, you'll want to pull.
         * `git pull origin master`
     + Help it's not working! Refer to this comic. Then Google it. Git provides fantastic documentation
-    
+
     ![xkcd 1597](http://imgs.xkcd.com/comics/git.png)
 
 ## Activity time!
@@ -48,3 +48,9 @@
 - Then you can push to your repo.
 - Do some more stuff; whatever you want.
 - Make a pull request to the official TJ Dev Club repository.
+
+## Resources (I highly recommend reading these)
+- [A visual guide to Git](https://marklodato.github.io/visual-git-guide/index-en.html)
+- [Udemy's Guide to Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1)
+- [Better Explained's Guide to Git](https://betterexplained.com/articles/aha-moments-when-learning-git/#GUIDs_are_GOOD)
+- [Learn Git in Y minutes](https://learnxinyminutes.com/docs/git/)
